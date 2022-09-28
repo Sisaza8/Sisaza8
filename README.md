@@ -3,7 +3,7 @@
 
 #### Hola, soy Santiago Isaza 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=025A00&center=true&width=435&lines=Estudiante+de+Ing.+de+Sistemas+;Leguajes+;Html+-+C%2B%2B+-+PHP" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=025A00&center=true&width=435&lines=Estudiante+de+Ing.+de+Sistemas+;Lenguajes+;Html+-+C%2B%2B+-+PHP" alt="Typing SVG" />
 
 </a>
 
